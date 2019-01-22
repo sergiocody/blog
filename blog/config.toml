@@ -1,0 +1,4 @@
+baseUrl = "https://sergiocody.github.io"
+title = "Ubeercool blog name"
+theme = "hugo_theme_robust"
+publishDir = "../"
